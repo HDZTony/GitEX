@@ -1,0 +1,66 @@
+//
+//  PrefixHeader.pch
+//  iTunesSearch
+//
+//  Created by 何东洲 on 2018/4/22.
+//  Copyright © 2018年 何东洲. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "HDZConsts.h" // 常量
+
+/*****************  屏幕适配  ******************/
+#define iphone58 (ScreenH == 812)
+#define iphone55 (ScreenH == 736)
+#define iphone47 (ScreenH == 667)
+#define iphone40 (ScreenH == 568)
+#define iphone35 (ScreenH == 480)
+
+// 定义这个常量，就可以不用在开发过程中使用"mas_"前缀。
+#define MAS_SHORTHAND
+// 定义这个常量，就可以让Masonry帮我们自动把基础数据类型的数据，自动装箱为对象类型。
+#define MAS_SHORTHAND_GLOBALS
+
+//全局背景色
+#define HDZBGColor [UIColor colorWithRed:245/255 green:245/255 blue:245/255 alpha:1]
+#define HDZRandomColor [UIColor colorWithRed:arc4random_uniform(255) / 255.0 green:arc4random_uniform(255) / 255.0 blue:arc4random_uniform(255) / 255.0 alpha:1]
+#define HDZGrayColor [UIColor colorWithDisplayP3Red:90/255.0 green:96/255.0 blue:104/255.0 alpha:1.0]
+#define HDZBlueColor [UIColor colorWithDisplayP3Red:43/255.0 green:100/255.0 blue:207/255.0 alpha:1.0]
+/** 屏幕高度 */
+#define ScreenH [UIScreen mainScreen].bounds.size.height
+/** 屏幕宽度 */
+#define ScreenW [UIScreen mainScreen].bounds.size.width
+
+
+#define Font20 [UIFont fontWithName:@"PingFangSC-Regular" size:20];
+#define Font18 [UIFont fontWithName:@"PingFangSC-Regular" size:18];
+#define Font16 [UIFont fontWithName:@"PingFangSC-Regular" size:16];
+#define Font15 [UIFont fontWithName:@"PingFangSC-Regular" size:15];
+#define Font14 [UIFont fontWithName:@"PingFangSC-Regular" size:14];
+#define Font13 [UIFont fontWithName:@"PingFangSC-Regular" size:13];
+#define Font12 [UIFont fontWithName:@"PingFangSC-Regular" size:12];
+#define Font11 [UIFont fontWithName:@"PingFangSC-Regular" size:11];
+#define Font10 [UIFont fontWithName:@"PingFangSC-Regular" size:10];
+#define Font9 [UIFont fontWithName:@"PingFangSC-Regular" size:9];
+#define Font8 [UIFont fontWithName:@"PingFangSC-Regular" size:8];
+
+
+//数组
+#define GoodsRecommendArray  @[@"http://gfs5.gomein.net.cn/T1blDgB5CT1RCvBVdK.jpg",@"http://gfs1.gomein.net.cn/T1loYvBCZj1RCvBVdK.jpg",@"http://gfs1.gomein.net.cn/T1w5bvB7K_1RCvBVdK.jpg",@"http://gfs1.gomein.net.cn/T1w5bvB7K_1RCvBVdK.jpg",@"http://gfs6.gomein.net.cn/T1L.VvBCxv1RCvBVdK.jpg",@"http://gfs9.gomein.net.cn/T1joLvBKhT1RCvBVdK.jpg",@"http://gfs5.gomein.net.cn/T1AoVvB7_v1RCvBVdK.jpg"]
+
+#define GoodsHandheldImagesArray  @[@"http://gfs8.gomein.net.cn/T1LnWvBsAg1RCvBVdK.jpg",@"http://gfs6.gomein.net.cn/T1CLLvBQbv1RCvBVdK.jpg",@"http://gfs6.gomein.net.cn/T1CCx_B5CT1RCvBVdK.jpg",@"http://gfs7.gomein.net.cn/T17QxvB7b_1RCvBVdK.jpg",@"http://gfs8.gomein.net.cn/T17CWsBmKT1RCvBVdK.jpg",@"http://gfs7.gomein.net.cn/T1nabsBCxT1RCvBVdK.jpg",@"http://gfs7.gomein.net.cn/T199_gBCDT1RCvBVdK.jpg",@"http://gfs7.gomein.net.cn/T1H.VsBKZT1RCvBVdK.jpg",@"http://gfs6.gomein.net.cn/T1JRW_BmLT1RCvBVdK.jpg"]
+
+#define GoodsBeautySilderImagesArray @[@"http://gfs8.gomein.net.cn/T1QtA_BXdT1RCvBVdK.jpg",@"http://gfs9.gomein.net.cn/T1__ZvB7Aj1RCvBVdK.jpg",@"http://gfs5.gomein.net.cn/T1SZ__B5VT1RCvBVdK.jpg"]
+
+#define GoodsHomeSilderImagesArray @[@"http://gfs5.gomein.net.cn/T1obZ_BmLT1RCvBVdK.jpg",@"http://gfs9.gomein.net.cn/T1C3J_B5LT1RCvBVdK.jpg",@"http://gfs5.gomein.net.cn/T1CwYjBCCT1RCvBVdK.jpg",@"http://gfs7.gomein.net.cn/T1u8V_B4ET1RCvBVdK.jpg",@"http://gfs7.gomein.net.cn/T1zODgB5CT1RCvBVdK.jpg"]
+
+#define GoodsFooterImagesArray @[@"http://gfs5.gomein.net.cn/T1vpK_BCZT1RCvBVdK.jpg",@"http://gfs9.gomein.net.cn/T1cGK_BCZT1RCvBVdK.jpg",@"http://gfs6.gomein.net.cn/T1Kod_BCxT1RCvBVdK.jpg"]
+
+#define GoodsNewWelfareImagesArray @[@"http://gfs6.gomein.net.cn/T1.iJvBXVT1RCvBVdK.jpg",@"http://gfs5.gomein.net.cn/T10_LvBjLv1RCvBVdK.jpg",@"http://gfs9.gomein.net.cn/T1ALVvBXZg1RCvBVdK.jpg"]
+
+
+#define BeastBeautyShopArray @[@"http://gfs7.gomein.net.cn/T1xp_sB7KT1RCvBVdK.jpg",@"http://gfs5.gomein.net.cn/T1Ao_sB7VT1RCvBVdK.jpg",@"http://gfs5.gomein.net.cn/T12md_B7YT1RCvBVdK.jpg"]
+
+#define HomeBottomViewGIFImage @"http://gfs8.gomein.net.cn/T1RbW_BmdT1RCvBVdK.gif"
+#endif /* PrefixHeader_pch */

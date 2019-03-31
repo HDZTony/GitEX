@@ -1,0 +1,2094 @@
+[
+    {
+        "hexStringColor" : "#814CCC",
+        "urlParam" : "1c-enterprise",
+        "name" : "1C Enterprise"
+    },
+    {
+        "hexStringColor" : "#E8274B",
+        "urlParam" : "abap",
+        "name" : "ABAP"
+    },
+    {
+        "urlParam" : "abnf",
+        "name" : "ABNF"
+    },
+    {
+        "hexStringColor" : "#882B0F",
+        "urlParam" : "actionscript",
+        "name" : "ActionScript"
+    },
+    {
+        "hexStringColor" : "#02f88c",
+        "urlParam" : "ada",
+        "name" : "Ada"
+    },
+    {
+        "urlParam" : "adobe-font-metrics",
+        "name" : "Adobe Font Metrics"
+    },
+    {
+        "hexStringColor" : "#315665",
+        "urlParam" : "agda",
+        "name" : "Agda"
+    },
+    {
+        "hexStringColor" : "#B9D9FF",
+        "urlParam" : "ags-script",
+        "name" : "AGS Script"
+    },
+    {
+        "hexStringColor" : "#64C800",
+        "urlParam" : "alloy",
+        "name" : "Alloy"
+    },
+    {
+        "urlParam" : "alpine-abuild",
+        "name" : "Alpine Abuild"
+    },
+    {
+        "hexStringColor" : "#E6EFBB",
+        "urlParam" : "ampl",
+        "name" : "AMPL"
+    },
+    {
+        "urlParam" : "angelscript",
+        "name" : "AngelScript"
+    },
+    {
+        "urlParam" : "ant-build-system",
+        "name" : "Ant Build System"
+    },
+    {
+        "hexStringColor" : "#9DC3FF",
+        "urlParam" : "antlr",
+        "name" : "ANTLR"
+    },
+    {
+        "urlParam" : "apacheconf",
+        "name" : "ApacheConf"
+    },
+    {
+        "urlParam" : "apex",
+        "name" : "Apex"
+    },
+    {
+        "hexStringColor" : "#2ACCA8",
+        "urlParam" : "api-blueprint",
+        "name" : "API Blueprint"
+    },
+    {
+        "hexStringColor" : "#5A8164",
+        "urlParam" : "apl",
+        "name" : "APL"
+    },
+    {
+        "urlParam" : "apollo-guidance-computer",
+        "name" : "Apollo Guidance Computer"
+    },
+    {
+        "hexStringColor" : "#101F1F",
+        "urlParam" : "applescript",
+        "name" : "AppleScript"
+    },
+    {
+        "hexStringColor" : "#aa2afe",
+        "urlParam" : "arc",
+        "name" : "Arc"
+    },
+    {
+        "urlParam" : "asciidoc",
+        "name" : "AsciiDoc"
+    },
+    {
+        "urlParam" : "asn.1",
+        "name" : "ASN.1"
+    },
+    {
+        "hexStringColor" : "#6a40fd",
+        "urlParam" : "asp",
+        "name" : "ASP"
+    },
+    {
+        "hexStringColor" : "#a957b0",
+        "urlParam" : "aspectj",
+        "name" : "AspectJ"
+    },
+    {
+        "hexStringColor" : "#6E4C13",
+        "urlParam" : "assembly",
+        "name" : "Assembly"
+    },
+    {
+        "hexStringColor" : "#1ac620",
+        "urlParam" : "ats",
+        "name" : "ATS"
+    },
+    {
+        "urlParam" : "augeas",
+        "name" : "Augeas"
+    },
+    {
+        "hexStringColor" : "#6594b9",
+        "urlParam" : "autohotkey",
+        "name" : "AutoHotkey"
+    },
+    {
+        "hexStringColor" : "#1C3552",
+        "urlParam" : "autoit",
+        "name" : "AutoIt"
+    },
+    {
+        "urlParam" : "awk",
+        "name" : "Awk"
+    },
+    {
+        "urlParam" : "ballerina",
+        "name" : "Ballerina"
+    },
+    {
+        "hexStringColor" : "#C1F12E",
+        "urlParam" : "batchfile",
+        "name" : "Batchfile"
+    },
+    {
+        "urlParam" : "befunge",
+        "name" : "Befunge"
+    },
+    {
+        "urlParam" : "bison",
+        "name" : "Bison"
+    },
+    {
+        "urlParam" : "bitbake",
+        "name" : "BitBake"
+    },
+    {
+        "urlParam" : "blade",
+        "name" : "Blade"
+    },
+    {
+        "urlParam" : "blitzbasic",
+        "name" : "BlitzBasic"
+    },
+    {
+        "hexStringColor" : "#cd6400",
+        "urlParam" : "blitzmax",
+        "name" : "BlitzMax"
+    },
+    {
+        "urlParam" : "bluespec",
+        "name" : "Bluespec"
+    },
+    {
+        "hexStringColor" : "#d4bec1",
+        "urlParam" : "boo",
+        "name" : "Boo"
+    },
+    {
+        "hexStringColor" : "#2F2530",
+        "urlParam" : "brainfuck",
+        "name" : "Brainfuck"
+    },
+    {
+        "urlParam" : "brightscript",
+        "name" : "Brightscript"
+    },
+    {
+        "urlParam" : "bro",
+        "name" : "Bro"
+    },
+    {
+        "hexStringColor" : "#555555",
+        "urlParam" : "c",
+        "name" : "C"
+    },
+    {
+        "hexStringColor" : "#178600",
+        "urlParam" : "c%23",
+        "name" : "C#"
+    },
+    {
+        "hexStringColor" : "#f34b7d",
+        "urlParam" : "c++",
+        "name" : "C++"
+    },
+    {
+        "urlParam" : "c-objdump",
+        "name" : "C-ObjDump"
+    },
+    {
+        "urlParam" : "c2hs-haskell",
+        "name" : "C2hs Haskell"
+    },
+    {
+        "urlParam" : "cap'n-proto",
+        "name" : "Cap'n Proto"
+    },
+    {
+        "urlParam" : "cartocss",
+        "name" : "CartoCSS"
+    },
+    {
+        "urlParam" : "ceylon",
+        "name" : "Ceylon"
+    },
+    {
+        "hexStringColor" : "#8dc63f",
+        "urlParam" : "chapel",
+        "name" : "Chapel"
+    },
+    {
+        "urlParam" : "charity",
+        "name" : "Charity"
+    },
+    {
+        "urlParam" : "chuck",
+        "name" : "ChucK"
+    },
+    {
+        "hexStringColor" : "#ccccff",
+        "urlParam" : "cirru",
+        "name" : "Cirru"
+    },
+    {
+        "hexStringColor" : "#db901e",
+        "urlParam" : "clarion",
+        "name" : "Clarion"
+    },
+    {
+        "hexStringColor" : "#3F85AF",
+        "urlParam" : "clean",
+        "name" : "Clean"
+    },
+    {
+        "hexStringColor" : "#E4E6F3",
+        "urlParam" : "click",
+        "name" : "Click"
+    },
+    {
+        "urlParam" : "clips",
+        "name" : "CLIPS"
+    },
+    {
+        "hexStringColor" : "#db5855",
+        "urlParam" : "clojure",
+        "name" : "Clojure"
+    },
+    {
+        "urlParam" : "closure-templates",
+        "name" : "Closure Templates"
+    },
+    {
+        "urlParam" : "cmake",
+        "name" : "CMake"
+    },
+    {
+        "urlParam" : "cobol",
+        "name" : "COBOL"
+    },
+    {
+        "hexStringColor" : "#244776",
+        "urlParam" : "coffeescript",
+        "name" : "CoffeeScript"
+    },
+    {
+        "hexStringColor" : "#ed2cd6",
+        "urlParam" : "coldfusion",
+        "name" : "ColdFusion"
+    },
+    {
+        "urlParam" : "coldfusion-cfc",
+        "name" : "ColdFusion CFC"
+    },
+    {
+        "urlParam" : "collada",
+        "name" : "COLLADA"
+    },
+    {
+        "hexStringColor" : "#3fb68b",
+        "urlParam" : "common-lisp",
+        "name" : "Common Lisp"
+    },
+    {
+        "urlParam" : "common-workflow-language",
+        "name" : "Common Workflow Language"
+    },
+    {
+        "hexStringColor" : "#B0CE4E",
+        "urlParam" : "component-pascal",
+        "name" : "Component Pascal"
+    },
+    {
+        "urlParam" : "cool",
+        "name" : "Cool"
+    },
+    {
+        "urlParam" : "coq",
+        "name" : "Coq"
+    },
+    {
+        "urlParam" : "cpp-objdump",
+        "name" : "Cpp-ObjDump"
+    },
+    {
+        "urlParam" : "creole",
+        "name" : "Creole"
+    },
+    {
+        "hexStringColor" : "#776791",
+        "urlParam" : "crystal",
+        "name" : "Crystal"
+    },
+    {
+        "urlParam" : "cson",
+        "name" : "CSON"
+    },
+    {
+        "urlParam" : "csound",
+        "name" : "Csound"
+    },
+    {
+        "urlParam" : "csound-document",
+        "name" : "Csound Document"
+    },
+    {
+        "urlParam" : "csound-score",
+        "name" : "Csound Score"
+    },
+    {
+        "hexStringColor" : "#563d7c",
+        "urlParam" : "css",
+        "name" : "CSS"
+    },
+    {
+        "urlParam" : "csv",
+        "name" : "CSV"
+    },
+    {
+        "hexStringColor" : "#3A4E3A",
+        "urlParam" : "cuda",
+        "name" : "Cuda"
+    },
+    {
+        "urlParam" : "cweb",
+        "name" : "CWeb"
+    },
+    {
+        "urlParam" : "cycript",
+        "name" : "Cycript"
+    },
+    {
+        "urlParam" : "cython",
+        "name" : "Cython"
+    },
+    {
+        "hexStringColor" : "#ba595e",
+        "urlParam" : "d",
+        "name" : "D"
+    },
+    {
+        "urlParam" : "d-objdump",
+        "name" : "D-ObjDump"
+    },
+    {
+        "urlParam" : "darcs-patch",
+        "name" : "Darcs Patch"
+    },
+    {
+        "hexStringColor" : "#00B4AB",
+        "urlParam" : "dart",
+        "name" : "Dart"
+    },
+    {
+        "urlParam" : "dataweave",
+        "name" : "DataWeave"
+    },
+    {
+        "urlParam" : "desktop",
+        "name" : "desktop"
+    },
+    {
+        "urlParam" : "diff",
+        "name" : "Diff"
+    },
+    {
+        "urlParam" : "digital-command-language",
+        "name" : "DIGITAL Command Language"
+    },
+    {
+        "hexStringColor" : "#447265",
+        "urlParam" : "dm",
+        "name" : "DM"
+    },
+    {
+        "urlParam" : "dns-zone",
+        "name" : "DNS Zone"
+    },
+    {
+        "urlParam" : "dockerfile",
+        "name" : "Dockerfile"
+    },
+    {
+        "hexStringColor" : "#cca760",
+        "urlParam" : "dogescript",
+        "name" : "Dogescript"
+    },
+    {
+        "urlParam" : "dtrace",
+        "name" : "DTrace"
+    },
+    {
+        "hexStringColor" : "#6c616e",
+        "urlParam" : "dylan",
+        "name" : "Dylan"
+    },
+    {
+        "hexStringColor" : "#ccce35",
+        "urlParam" : "e",
+        "name" : "E"
+    },
+    {
+        "hexStringColor" : "#814C05",
+        "urlParam" : "eagle",
+        "name" : "Eagle"
+    },
+    {
+        "urlParam" : "easybuild",
+        "name" : "Easybuild"
+    },
+    {
+        "urlParam" : "ebnf",
+        "name" : "EBNF"
+    },
+    {
+        "hexStringColor" : "#913960",
+        "urlParam" : "ec",
+        "name" : "eC"
+    },
+    {
+        "urlParam" : "ecere-projects",
+        "name" : "Ecere Projects"
+    },
+    {
+        "hexStringColor" : "#8a1267",
+        "urlParam" : "ecl",
+        "name" : "ECL"
+    },
+    {
+        "urlParam" : "eclipse",
+        "name" : "ECLiPSe"
+    },
+    {
+        "urlParam" : "edje-data-collection",
+        "name" : "Edje Data Collection"
+    },
+    {
+        "urlParam" : "edn",
+        "name" : "edn"
+    },
+    {
+        "hexStringColor" : "#946d57",
+        "urlParam" : "eiffel",
+        "name" : "Eiffel"
+    },
+    {
+        "urlParam" : "ejs",
+        "name" : "EJS"
+    },
+    {
+        "hexStringColor" : "#6e4a7e",
+        "urlParam" : "elixir",
+        "name" : "Elixir"
+    },
+    {
+        "hexStringColor" : "#60B5CC",
+        "urlParam" : "elm",
+        "name" : "Elm"
+    },
+    {
+        "hexStringColor" : "#c065db",
+        "urlParam" : "emacs-lisp",
+        "name" : "Emacs Lisp"
+    },
+    {
+        "hexStringColor" : "#FFF4F3",
+        "urlParam" : "emberscript",
+        "name" : "EmberScript"
+    },
+    {
+        "hexStringColor" : "#a78649",
+        "urlParam" : "eq",
+        "name" : "EQ"
+    },
+    {
+        "hexStringColor" : "#B83998",
+        "urlParam" : "erlang",
+        "name" : "Erlang"
+    },
+    {
+        "hexStringColor" : "#b845fc",
+        "urlParam" : "f%23",
+        "name" : "F#"
+    },
+    {
+        "hexStringColor" : "#636746",
+        "urlParam" : "factor",
+        "name" : "Factor"
+    },
+    {
+        "hexStringColor" : "#7b9db4",
+        "urlParam" : "fancy",
+        "name" : "Fancy"
+    },
+    {
+        "hexStringColor" : "#dbded5",
+        "urlParam" : "fantom",
+        "name" : "Fantom"
+    },
+    {
+        "urlParam" : "filebench-wml",
+        "name" : "Filebench WML"
+    },
+    {
+        "urlParam" : "filterscript",
+        "name" : "Filterscript"
+    },
+    {
+        "urlParam" : "fish",
+        "name" : "fish"
+    },
+    {
+        "hexStringColor" : "#88ccff",
+        "urlParam" : "flux",
+        "name" : "FLUX"
+    },
+    {
+        "urlParam" : "formatted",
+        "name" : "Formatted"
+    },
+    {
+        "hexStringColor" : "#341708",
+        "urlParam" : "forth",
+        "name" : "Forth"
+    },
+    {
+        "hexStringColor" : "#4d41b1",
+        "urlParam" : "fortran",
+        "name" : "Fortran"
+    },
+    {
+        "hexStringColor" : "#0050b2",
+        "urlParam" : "freemarker",
+        "name" : "FreeMarker"
+    },
+    {
+        "hexStringColor" : "#00cafe",
+        "urlParam" : "frege",
+        "name" : "Frege"
+    },
+    {
+        "urlParam" : "g-code",
+        "name" : "G-code"
+    },
+    {
+        "hexStringColor" : "#8fb200",
+        "urlParam" : "game-maker-language",
+        "name" : "Game Maker Language"
+    },
+    {
+        "urlParam" : "gams",
+        "name" : "GAMS"
+    },
+    {
+        "urlParam" : "gap",
+        "name" : "GAP"
+    },
+    {
+        "urlParam" : "gcc-machine-description",
+        "name" : "GCC Machine Description"
+    },
+    {
+        "urlParam" : "gdb",
+        "name" : "GDB"
+    },
+    {
+        "urlParam" : "gdscript",
+        "name" : "GDScript"
+    },
+    {
+        "hexStringColor" : "#fb855d",
+        "urlParam" : "genie",
+        "name" : "Genie"
+    },
+    {
+        "urlParam" : "genshi",
+        "name" : "Genshi"
+    },
+    {
+        "urlParam" : "gentoo-ebuild",
+        "name" : "Gentoo Ebuild"
+    },
+    {
+        "urlParam" : "gentoo-eclass",
+        "name" : "Gentoo Eclass"
+    },
+    {
+        "urlParam" : "gerber-image",
+        "name" : "Gerber Image"
+    },
+    {
+        "urlParam" : "gettext-catalog",
+        "name" : "Gettext Catalog"
+    },
+    {
+        "hexStringColor" : "#5B2063",
+        "urlParam" : "gherkin",
+        "name" : "Gherkin"
+    },
+    {
+        "urlParam" : "glsl",
+        "name" : "GLSL"
+    },
+    {
+        "hexStringColor" : "#e4cc98",
+        "urlParam" : "glyph",
+        "name" : "Glyph"
+    },
+    {
+        "urlParam" : "gn",
+        "name" : "GN"
+    },
+    {
+        "hexStringColor" : "#f0a9f0",
+        "urlParam" : "gnuplot",
+        "name" : "Gnuplot"
+    },
+    {
+        "hexStringColor" : "#375eab",
+        "urlParam" : "go",
+        "name" : "Go"
+    },
+    {
+        "hexStringColor" : "#88562A",
+        "urlParam" : "golo",
+        "name" : "Golo"
+    },
+    {
+        "hexStringColor" : "#82937f",
+        "urlParam" : "gosu",
+        "name" : "Gosu"
+    },
+    {
+        "urlParam" : "grace",
+        "name" : "Grace"
+    },
+    {
+        "urlParam" : "gradle",
+        "name" : "Gradle"
+    },
+    {
+        "hexStringColor" : "#79aa7a",
+        "urlParam" : "grammatical-framework",
+        "name" : "Grammatical Framework"
+    },
+    {
+        "urlParam" : "graph-modeling-language",
+        "name" : "Graph Modeling Language"
+    },
+    {
+        "urlParam" : "graphql",
+        "name" : "GraphQL"
+    },
+    {
+        "urlParam" : "graphviz-(dot)",
+        "name" : "Graphviz (DOT)"
+    },
+    {
+        "hexStringColor" : "#e69f56",
+        "urlParam" : "groovy",
+        "name" : "Groovy"
+    },
+    {
+        "urlParam" : "groovy-server-pages",
+        "name" : "Groovy Server Pages"
+    },
+    {
+        "hexStringColor" : "#878787",
+        "urlParam" : "hack",
+        "name" : "Hack"
+    },
+    {
+        "urlParam" : "haml",
+        "name" : "Haml"
+    },
+    {
+        "urlParam" : "handlebars",
+        "name" : "Handlebars"
+    },
+    {
+        "hexStringColor" : "#0e60e3",
+        "urlParam" : "harbour",
+        "name" : "Harbour"
+    },
+    {
+        "hexStringColor" : "#29b544",
+        "urlParam" : "haskell",
+        "name" : "Haskell"
+    },
+    {
+        "hexStringColor" : "#df7900",
+        "urlParam" : "haxe",
+        "name" : "Haxe"
+    },
+    {
+        "urlParam" : "hcl",
+        "name" : "HCL"
+    },
+    {
+        "urlParam" : "hlsl",
+        "name" : "HLSL"
+    },
+    {
+        "hexStringColor" : "#e44b23",
+        "urlParam" : "html",
+        "name" : "HTML"
+    },
+    {
+        "urlParam" : "html+django",
+        "name" : "HTML+Django"
+    },
+    {
+        "urlParam" : "html+ecr",
+        "name" : "HTML+ECR"
+    },
+    {
+        "urlParam" : "html+eex",
+        "name" : "HTML+EEX"
+    },
+    {
+        "urlParam" : "html+erb",
+        "name" : "HTML+ERB"
+    },
+    {
+        "urlParam" : "html+php",
+        "name" : "HTML+PHP"
+    },
+    {
+        "urlParam" : "http",
+        "name" : "HTTP"
+    },
+    {
+        "hexStringColor" : "#7790B2",
+        "urlParam" : "hy",
+        "name" : "Hy"
+    },
+    {
+        "urlParam" : "hyphy",
+        "name" : "HyPhy"
+    },
+    {
+        "hexStringColor" : "#a3522f",
+        "urlParam" : "idl",
+        "name" : "IDL"
+    },
+    {
+        "urlParam" : "idris",
+        "name" : "Idris"
+    },
+    {
+        "urlParam" : "igor-pro",
+        "name" : "IGOR Pro"
+    },
+    {
+        "urlParam" : "inform-7",
+        "name" : "Inform 7"
+    },
+    {
+        "urlParam" : "ini",
+        "name" : "INI"
+    },
+    {
+        "urlParam" : "inno-setup",
+        "name" : "Inno Setup"
+    },
+    {
+        "hexStringColor" : "#a9188d",
+        "urlParam" : "io",
+        "name" : "Io"
+    },
+    {
+        "hexStringColor" : "#078193",
+        "urlParam" : "ioke",
+        "name" : "Ioke"
+    },
+    {
+        "urlParam" : "irc-log",
+        "name" : "IRC log"
+    },
+    {
+        "hexStringColor" : "#FEFE00",
+        "urlParam" : "isabelle",
+        "name" : "Isabelle"
+    },
+    {
+        "urlParam" : "isabelle-root",
+        "name" : "Isabelle ROOT"
+    },
+    {
+        "hexStringColor" : "#9EEDFF",
+        "urlParam" : "j",
+        "name" : "J"
+    },
+    {
+        "urlParam" : "jasmin",
+        "name" : "Jasmin"
+    },
+    {
+        "hexStringColor" : "#b07219",
+        "urlParam" : "java",
+        "name" : "Java"
+    },
+    {
+        "urlParam" : "java-server-pages",
+        "name" : "Java Server Pages"
+    },
+    {
+        "hexStringColor" : "#f1e05a",
+        "urlParam" : "javascript",
+        "name" : "JavaScript"
+    },
+    {
+        "urlParam" : "jflex",
+        "name" : "JFlex"
+    },
+    {
+        "urlParam" : "jison",
+        "name" : "Jison"
+    },
+    {
+        "urlParam" : "jison-lex",
+        "name" : "Jison Lex"
+    },
+    {
+        "urlParam" : "jolie",
+        "name" : "Jolie"
+    },
+    {
+        "urlParam" : "json",
+        "name" : "JSON"
+    },
+    {
+        "urlParam" : "json5",
+        "name" : "JSON5"
+    },
+    {
+        "hexStringColor" : "#40d47e",
+        "urlParam" : "jsoniq",
+        "name" : "JSONiq"
+    },
+    {
+        "urlParam" : "jsonld",
+        "name" : "JSONLD"
+    },
+    {
+        "urlParam" : "jsx",
+        "name" : "JSX"
+    },
+    {
+        "hexStringColor" : "#a270ba",
+        "urlParam" : "julia",
+        "name" : "Julia"
+    },
+    {
+        "hexStringColor" : "#DA5B0B",
+        "urlParam" : "jupyter-notebook",
+        "name" : "Jupyter Notebook"
+    },
+    {
+        "urlParam" : "kicad-layout",
+        "name" : "KiCad Layout"
+    },
+    {
+        "urlParam" : "kicad-legacy-layout",
+        "name" : "KiCad Legacy Layout"
+    },
+    {
+        "urlParam" : "kicad-schematic",
+        "name" : "KiCad Schematic"
+    },
+    {
+        "urlParam" : "kit",
+        "name" : "Kit"
+    },
+    {
+        "hexStringColor" : "#F18E33",
+        "urlParam" : "kotlin",
+        "name" : "Kotlin"
+    },
+    {
+        "hexStringColor" : "#28431f",
+        "urlParam" : "krl",
+        "name" : "KRL"
+    },
+    {
+        "urlParam" : "labview",
+        "name" : "LabVIEW"
+    },
+    {
+        "hexStringColor" : "#999999",
+        "urlParam" : "lasso",
+        "name" : "Lasso"
+    },
+    {
+        "urlParam" : "latte",
+        "name" : "Latte"
+    },
+    {
+        "urlParam" : "lean",
+        "name" : "Lean"
+    },
+    {
+        "urlParam" : "less",
+        "name" : "Less"
+    },
+    {
+        "hexStringColor" : "#DBCA00",
+        "urlParam" : "lex",
+        "name" : "Lex"
+    },
+    {
+        "urlParam" : "lfe",
+        "name" : "LFE"
+    },
+    {
+        "urlParam" : "lilypond",
+        "name" : "LilyPond"
+    },
+    {
+        "urlParam" : "limbo",
+        "name" : "Limbo"
+    },
+    {
+        "urlParam" : "linker-script",
+        "name" : "Linker Script"
+    },
+    {
+        "urlParam" : "linux-kernel-module",
+        "name" : "Linux Kernel Module"
+    },
+    {
+        "urlParam" : "liquid",
+        "name" : "Liquid"
+    },
+    {
+        "urlParam" : "literate-agda",
+        "name" : "Literate Agda"
+    },
+    {
+        "urlParam" : "literate-coffeescript",
+        "name" : "Literate CoffeeScript"
+    },
+    {
+        "urlParam" : "literate-haskell",
+        "name" : "Literate Haskell"
+    },
+    {
+        "hexStringColor" : "#499886",
+        "urlParam" : "livescript",
+        "name" : "LiveScript"
+    },
+    {
+        "hexStringColor" : "#185619",
+        "urlParam" : "llvm",
+        "name" : "LLVM"
+    },
+    {
+        "urlParam" : "logos",
+        "name" : "Logos"
+    },
+    {
+        "urlParam" : "logtalk",
+        "name" : "Logtalk"
+    },
+    {
+        "hexStringColor" : "#cc9900",
+        "urlParam" : "lolcode",
+        "name" : "LOLCODE"
+    },
+    {
+        "hexStringColor" : "#652B81",
+        "urlParam" : "lookml",
+        "name" : "LookML"
+    },
+    {
+        "urlParam" : "loomscript",
+        "name" : "LoomScript"
+    },
+    {
+        "hexStringColor" : "#3d9970",
+        "urlParam" : "lsl",
+        "name" : "LSL"
+    },
+    {
+        "hexStringColor" : "#000080",
+        "urlParam" : "lua",
+        "name" : "Lua"
+    },
+    {
+        "urlParam" : "m",
+        "name" : "M"
+    },
+    {
+        "urlParam" : "m4",
+        "name" : "M4"
+    },
+    {
+        "urlParam" : "m4sugar",
+        "name" : "M4Sugar"
+    },
+    {
+        "hexStringColor" : "#427819",
+        "urlParam" : "makefile",
+        "name" : "Makefile"
+    },
+    {
+        "urlParam" : "mako",
+        "name" : "Mako"
+    },
+    {
+        "urlParam" : "markdown",
+        "name" : "Markdown"
+    },
+    {
+        "urlParam" : "marko",
+        "name" : "Marko"
+    },
+    {
+        "hexStringColor" : "#f97732",
+        "urlParam" : "mask",
+        "name" : "Mask"
+    },
+    {
+        "urlParam" : "mathematica",
+        "name" : "Mathematica"
+    },
+    {
+        "hexStringColor" : "#bb92ac",
+        "urlParam" : "matlab",
+        "name" : "Matlab"
+    },
+    {
+        "urlParam" : "maven-pom",
+        "name" : "Maven POM"
+    },
+    {
+        "hexStringColor" : "#c4a79c",
+        "urlParam" : "max",
+        "name" : "Max"
+    },
+    {
+        "hexStringColor" : "#00a6a6",
+        "urlParam" : "maxscript",
+        "name" : "MAXScript"
+    },
+    {
+        "urlParam" : "mediawiki",
+        "name" : "MediaWiki"
+    },
+    {
+        "hexStringColor" : "#ff2b2b",
+        "urlParam" : "mercury",
+        "name" : "Mercury"
+    },
+    {
+        "urlParam" : "meson",
+        "name" : "Meson"
+    },
+    {
+        "hexStringColor" : "#8f14e9",
+        "urlParam" : "metal",
+        "name" : "Metal"
+    },
+    {
+        "urlParam" : "minid",
+        "name" : "MiniD"
+    },
+    {
+        "hexStringColor" : "#c7a938",
+        "urlParam" : "mirah",
+        "name" : "Mirah"
+    },
+    {
+        "urlParam" : "modelica",
+        "name" : "Modelica"
+    },
+    {
+        "urlParam" : "modula-2",
+        "name" : "Modula-2"
+    },
+    {
+        "urlParam" : "module-management-system",
+        "name" : "Module Management System"
+    },
+    {
+        "urlParam" : "monkey",
+        "name" : "Monkey"
+    },
+    {
+        "urlParam" : "moocode",
+        "name" : "Moocode"
+    },
+    {
+        "urlParam" : "moonscript",
+        "name" : "MoonScript"
+    },
+    {
+        "hexStringColor" : "#62A8D6",
+        "urlParam" : "mql4",
+        "name" : "MQL4"
+    },
+    {
+        "hexStringColor" : "#4A76B8",
+        "urlParam" : "mql5",
+        "name" : "MQL5"
+    },
+    {
+        "hexStringColor" : "#b7e1f4",
+        "urlParam" : "mtml",
+        "name" : "MTML"
+    },
+    {
+        "urlParam" : "muf",
+        "name" : "MUF"
+    },
+    {
+        "urlParam" : "mupad",
+        "name" : "mupad"
+    },
+    {
+        "urlParam" : "myghty",
+        "name" : "Myghty"
+    },
+    {
+        "hexStringColor" : "#28431f",
+        "urlParam" : "ncl",
+        "name" : "NCL"
+    },
+    {
+        "urlParam" : "nearley",
+        "name" : "Nearley"
+    },
+    {
+        "hexStringColor" : "#3d3c6e",
+        "urlParam" : "nemerle",
+        "name" : "Nemerle"
+    },
+    {
+        "hexStringColor" : "#94B0C7",
+        "urlParam" : "nesc",
+        "name" : "nesC"
+    },
+    {
+        "hexStringColor" : "#0aa0ff",
+        "urlParam" : "netlinx",
+        "name" : "NetLinx"
+    },
+    {
+        "hexStringColor" : "#747faa",
+        "urlParam" : "netlinx+erb",
+        "name" : "NetLinx+ERB"
+    },
+    {
+        "hexStringColor" : "#ff6375",
+        "urlParam" : "netlogo",
+        "name" : "NetLogo"
+    },
+    {
+        "hexStringColor" : "#87AED7",
+        "urlParam" : "newlisp",
+        "name" : "NewLisp"
+    },
+    {
+        "urlParam" : "nextflow",
+        "name" : "Nextflow"
+    },
+    {
+        "hexStringColor" : "#9469E9",
+        "urlParam" : "nginx",
+        "name" : "Nginx"
+    },
+    {
+        "hexStringColor" : "#37775b",
+        "urlParam" : "nim",
+        "name" : "Nim"
+    },
+    {
+        "urlParam" : "ninja",
+        "name" : "Ninja"
+    },
+    {
+        "hexStringColor" : "#009917",
+        "urlParam" : "nit",
+        "name" : "Nit"
+    },
+    {
+        "hexStringColor" : "#7e7eff",
+        "urlParam" : "nix",
+        "name" : "Nix"
+    },
+    {
+        "urlParam" : "nl",
+        "name" : "NL"
+    },
+    {
+        "urlParam" : "nsis",
+        "name" : "NSIS"
+    },
+    {
+        "hexStringColor" : "#c9df40",
+        "urlParam" : "nu",
+        "name" : "Nu"
+    },
+    {
+        "urlParam" : "numpy",
+        "name" : "NumPy"
+    },
+    {
+        "urlParam" : "objdump",
+        "name" : "ObjDump"
+    },
+    {
+        "hexStringColor" : "#438eff",
+        "urlParam" : "objective-c",
+        "name" : "Objective-C"
+    },
+    {
+        "hexStringColor" : "#6866fb",
+        "urlParam" : "objective-c++",
+        "name" : "Objective-C++"
+    },
+    {
+        "hexStringColor" : "#ff0c5a",
+        "urlParam" : "objective-j",
+        "name" : "Objective-J"
+    },
+    {
+        "hexStringColor" : "#3be133",
+        "urlParam" : "ocaml",
+        "name" : "OCaml"
+    },
+    {
+        "hexStringColor" : "#cabbff",
+        "urlParam" : "omgrofl",
+        "name" : "Omgrofl"
+    },
+    {
+        "hexStringColor" : "#b0b77e",
+        "urlParam" : "ooc",
+        "name" : "ooc"
+    },
+    {
+        "urlParam" : "opa",
+        "name" : "Opa"
+    },
+    {
+        "hexStringColor" : "#f7ede0",
+        "urlParam" : "opal",
+        "name" : "Opal"
+    },
+    {
+        "urlParam" : "opencl",
+        "name" : "OpenCL"
+    },
+    {
+        "urlParam" : "openedge-abl",
+        "name" : "OpenEdge ABL"
+    },
+    {
+        "urlParam" : "openrc-runscript",
+        "name" : "OpenRC runscript"
+    },
+    {
+        "urlParam" : "openscad",
+        "name" : "OpenSCAD"
+    },
+    {
+        "urlParam" : "opentype-feature-file",
+        "name" : "OpenType Feature File"
+    },
+    {
+        "urlParam" : "org",
+        "name" : "Org"
+    },
+    {
+        "urlParam" : "ox",
+        "name" : "Ox"
+    },
+    {
+        "hexStringColor" : "#cdd0e3",
+        "urlParam" : "oxygene",
+        "name" : "Oxygene"
+    },
+    {
+        "hexStringColor" : "#fab738",
+        "urlParam" : "oz",
+        "name" : "Oz"
+    },
+    {
+        "urlParam" : "p4",
+        "name" : "P4"
+    },
+    {
+        "hexStringColor" : "#cc0000",
+        "urlParam" : "pan",
+        "name" : "Pan"
+    },
+    {
+        "hexStringColor" : "#6600cc",
+        "urlParam" : "papyrus",
+        "name" : "Papyrus"
+    },
+    {
+        "hexStringColor" : "#f3ca0a",
+        "urlParam" : "parrot",
+        "name" : "Parrot"
+    },
+    {
+        "urlParam" : "parrot-assembly",
+        "name" : "Parrot Assembly"
+    },
+    {
+        "urlParam" : "parrot-internal-representation",
+        "name" : "Parrot Internal Representation"
+    },
+    {
+        "hexStringColor" : "#E3F171",
+        "urlParam" : "pascal",
+        "name" : "Pascal"
+    },
+    {
+        "hexStringColor" : "#dbb284",
+        "urlParam" : "pawn",
+        "name" : "PAWN"
+    },
+    {
+        "urlParam" : "pep8",
+        "name" : "Pep8"
+    },
+    {
+        "hexStringColor" : "#0298c3",
+        "urlParam" : "perl",
+        "name" : "Perl"
+    },
+    {
+        "urlParam" : "perl-6",
+        "name" : "Perl 6"
+    },
+    {
+        "hexStringColor" : "#4F5D95",
+        "urlParam" : "php",
+        "name" : "PHP"
+    },
+    {
+        "urlParam" : "pic",
+        "name" : "Pic"
+    },
+    {
+        "urlParam" : "pickle",
+        "name" : "Pickle"
+    },
+    {
+        "urlParam" : "picolisp",
+        "name" : "PicoLisp"
+    },
+    {
+        "hexStringColor" : "#fcd7de",
+        "urlParam" : "piglatin",
+        "name" : "PigLatin"
+    },
+    {
+        "hexStringColor" : "#005390",
+        "urlParam" : "pike",
+        "name" : "Pike"
+    },
+    {
+        "urlParam" : "plpgsql",
+        "name" : "PLpgSQL"
+    },
+    {
+        "hexStringColor" : "#dad8d8",
+        "urlParam" : "plsql",
+        "name" : "PLSQL"
+    },
+    {
+        "urlParam" : "pod",
+        "name" : "Pod"
+    },
+    {
+        "hexStringColor" : "#d80074",
+        "urlParam" : "pogoscript",
+        "name" : "PogoScript"
+    },
+    {
+        "urlParam" : "pony",
+        "name" : "Pony"
+    },
+    {
+        "urlParam" : "postcss",
+        "name" : "PostCSS"
+    },
+    {
+        "hexStringColor" : "#da291c",
+        "urlParam" : "postscript",
+        "name" : "PostScript"
+    },
+    {
+        "urlParam" : "pov-ray-sdl",
+        "name" : "POV-Ray SDL"
+    },
+    {
+        "hexStringColor" : "#8f0f8d",
+        "urlParam" : "powerbuilder",
+        "name" : "PowerBuilder"
+    },
+    {
+        "urlParam" : "powershell",
+        "name" : "PowerShell"
+    },
+    {
+        "hexStringColor" : "#0096D8",
+        "urlParam" : "processing",
+        "name" : "Processing"
+    },
+    {
+        "hexStringColor" : "#74283c",
+        "urlParam" : "prolog",
+        "name" : "Prolog"
+    },
+    {
+        "hexStringColor" : "#7fa2a7",
+        "urlParam" : "propeller-spin",
+        "name" : "Propeller Spin"
+    },
+    {
+        "urlParam" : "protocol-buffer",
+        "name" : "Protocol Buffer"
+    },
+    {
+        "urlParam" : "public-key",
+        "name" : "Public Key"
+    },
+    {
+        "urlParam" : "pug",
+        "name" : "Pug"
+    },
+    {
+        "hexStringColor" : "#302B6D",
+        "urlParam" : "puppet",
+        "name" : "Puppet"
+    },
+    {
+        "hexStringColor" : "#91de79",
+        "urlParam" : "pure-data",
+        "name" : "Pure Data"
+    },
+    {
+        "hexStringColor" : "#5a6986",
+        "urlParam" : "purebasic",
+        "name" : "PureBasic"
+    },
+    {
+        "hexStringColor" : "#1D222D",
+        "urlParam" : "purescript",
+        "name" : "PureScript"
+    },
+    {
+        "hexStringColor" : "#3572A5",
+        "urlParam" : "python",
+        "name" : "Python"
+    },
+    {
+        "urlParam" : "python-console",
+        "name" : "Python console"
+    },
+    {
+        "urlParam" : "python-traceback",
+        "name" : "Python traceback"
+    },
+    {
+        "urlParam" : "qmake",
+        "name" : "QMake"
+    },
+    {
+        "hexStringColor" : "#44a51c",
+        "urlParam" : "qml",
+        "name" : "QML"
+    },
+    {
+        "hexStringColor" : "#198CE7",
+        "urlParam" : "r",
+        "name" : "R"
+    },
+    {
+        "hexStringColor" : "#22228f",
+        "urlParam" : "racket",
+        "name" : "Racket"
+    },
+    {
+        "hexStringColor" : "#9d5200",
+        "urlParam" : "ragel",
+        "name" : "Ragel"
+    },
+    {
+        "hexStringColor" : "#77d9fb",
+        "urlParam" : "raml",
+        "name" : "RAML"
+    },
+    {
+        "hexStringColor" : "#fffaa0",
+        "urlParam" : "rascal",
+        "name" : "Rascal"
+    },
+    {
+        "urlParam" : "raw-token-data",
+        "name" : "Raw token data"
+    },
+    {
+        "urlParam" : "rdoc",
+        "name" : "RDoc"
+    },
+    {
+        "urlParam" : "realbasic",
+        "name" : "REALbasic"
+    },
+    {
+        "urlParam" : "reason",
+        "name" : "Reason"
+    },
+    {
+        "hexStringColor" : "#358a5b",
+        "urlParam" : "rebol",
+        "name" : "Rebol"
+    },
+    {
+        "hexStringColor" : "#f50000",
+        "urlParam" : "red",
+        "name" : "Red"
+    },
+    {
+        "urlParam" : "redcode",
+        "name" : "Redcode"
+    },
+    {
+        "urlParam" : "regular-expression",
+        "name" : "Regular Expression"
+    },
+    {
+        "hexStringColor" : "#ff7f7f",
+        "urlParam" : "ren'py",
+        "name" : "Ren'Py"
+    },
+    {
+        "urlParam" : "renderscript",
+        "name" : "RenderScript"
+    },
+    {
+        "urlParam" : "restructuredtext",
+        "name" : "reStructuredText"
+    },
+    {
+        "urlParam" : "rexx",
+        "name" : "REXX"
+    },
+    {
+        "urlParam" : "rhtml",
+        "name" : "RHTML"
+    },
+    {
+        "urlParam" : "ring",
+        "name" : "Ring"
+    },
+    {
+        "urlParam" : "rmarkdown",
+        "name" : "RMarkdown"
+    },
+    {
+        "urlParam" : "robotframework",
+        "name" : "RobotFramework"
+    },
+    {
+        "hexStringColor" : "#ecdebe",
+        "urlParam" : "roff",
+        "name" : "Roff"
+    },
+    {
+        "hexStringColor" : "#cc0088",
+        "urlParam" : "rouge",
+        "name" : "Rouge"
+    },
+    {
+        "urlParam" : "rpc",
+        "name" : "RPC"
+    },
+    {
+        "urlParam" : "rpm-spec",
+        "name" : "RPM Spec"
+    },
+    {
+        "hexStringColor" : "#701516",
+        "urlParam" : "ruby",
+        "name" : "Ruby"
+    },
+    {
+        "hexStringColor" : "#665a4e",
+        "urlParam" : "runoff",
+        "name" : "RUNOFF"
+    },
+    {
+        "hexStringColor" : "#dea584",
+        "urlParam" : "rust",
+        "name" : "Rust"
+    },
+    {
+        "urlParam" : "sage",
+        "name" : "Sage"
+    },
+    {
+        "hexStringColor" : "#646464",
+        "urlParam" : "saltstack",
+        "name" : "SaltStack"
+    },
+    {
+        "hexStringColor" : "#B34936",
+        "urlParam" : "sas",
+        "name" : "SAS"
+    },
+    {
+        "urlParam" : "sass",
+        "name" : "Sass"
+    },
+    {
+        "hexStringColor" : "#c22d40",
+        "urlParam" : "scala",
+        "name" : "Scala"
+    },
+    {
+        "urlParam" : "scaml",
+        "name" : "Scaml"
+    },
+    {
+        "hexStringColor" : "#1e4aec",
+        "urlParam" : "scheme",
+        "name" : "Scheme"
+    },
+    {
+        "urlParam" : "scilab",
+        "name" : "Scilab"
+    },
+    {
+        "urlParam" : "scss",
+        "name" : "SCSS"
+    },
+    {
+        "urlParam" : "sed",
+        "name" : "sed"
+    },
+    {
+        "hexStringColor" : "#0579aa",
+        "urlParam" : "self",
+        "name" : "Self"
+    },
+    {
+        "urlParam" : "shaderlab",
+        "name" : "ShaderLab"
+    },
+    {
+        "hexStringColor" : "#89e051",
+        "urlParam" : "shell",
+        "name" : "Shell"
+    },
+    {
+        "urlParam" : "shellsession",
+        "name" : "ShellSession"
+    },
+    {
+        "hexStringColor" : "#120F14",
+        "urlParam" : "shen",
+        "name" : "Shen"
+    },
+    {
+        "hexStringColor" : "#007eff",
+        "urlParam" : "slash",
+        "name" : "Slash"
+    },
+    {
+        "urlParam" : "slim",
+        "name" : "Slim"
+    },
+    {
+        "urlParam" : "smali",
+        "name" : "Smali"
+    },
+    {
+        "hexStringColor" : "#596706",
+        "urlParam" : "smalltalk",
+        "name" : "Smalltalk"
+    },
+    {
+        "urlParam" : "smarty",
+        "name" : "Smarty"
+    },
+    {
+        "urlParam" : "smt",
+        "name" : "SMT"
+    },
+    {
+        "urlParam" : "solidity",
+        "name" : "Solidity"
+    },
+    {
+        "hexStringColor" : "#5c7611",
+        "urlParam" : "sourcepawn",
+        "name" : "SourcePawn"
+    },
+    {
+        "urlParam" : "sparql",
+        "name" : "SPARQL"
+    },
+    {
+        "urlParam" : "spline-font-database",
+        "name" : "Spline Font Database"
+    },
+    {
+        "hexStringColor" : "#3F3F3F",
+        "urlParam" : "sqf",
+        "name" : "SQF"
+    },
+    {
+        "urlParam" : "sql",
+        "name" : "SQL"
+    },
+    {
+        "urlParam" : "sqlpl",
+        "name" : "SQLPL"
+    },
+    {
+        "hexStringColor" : "#800000",
+        "urlParam" : "squirrel",
+        "name" : "Squirrel"
+    },
+    {
+        "hexStringColor" : "#348a34",
+        "urlParam" : "srecode-template",
+        "name" : "SRecode Template"
+    },
+    {
+        "hexStringColor" : "#b2011d",
+        "urlParam" : "stan",
+        "name" : "Stan"
+    },
+    {
+        "hexStringColor" : "#dc566d",
+        "urlParam" : "standard-ml",
+        "name" : "Standard ML"
+    },
+    {
+        "urlParam" : "stata",
+        "name" : "Stata"
+    },
+    {
+        "urlParam" : "ston",
+        "name" : "STON"
+    },
+    {
+        "urlParam" : "stylus",
+        "name" : "Stylus"
+    },
+    {
+        "urlParam" : "sublime-text-config",
+        "name" : "Sublime Text Config"
+    },
+    {
+        "urlParam" : "subrip-text",
+        "name" : "SubRip Text"
+    },
+    {
+        "urlParam" : "sugarss",
+        "name" : "SugarSS"
+    },
+    {
+        "hexStringColor" : "#46390b",
+        "urlParam" : "supercollider",
+        "name" : "SuperCollider"
+    },
+    {
+        "urlParam" : "svg",
+        "name" : "SVG"
+    },
+    {
+        "hexStringColor" : "#ffac45",
+        "urlParam" : "swift",
+        "name" : "Swift"
+    },
+    {
+        "hexStringColor" : "#DAE1C2",
+        "urlParam" : "systemverilog",
+        "name" : "SystemVerilog"
+    },
+    {
+        "hexStringColor" : "#e4cc98",
+        "urlParam" : "tcl",
+        "name" : "Tcl"
+    },
+    {
+        "urlParam" : "tcsh",
+        "name" : "Tcsh"
+    },
+    {
+        "urlParam" : "tea",
+        "name" : "Tea"
+    },
+    {
+        "hexStringColor" : "#00004c",
+        "urlParam" : "terra",
+        "name" : "Terra"
+    },
+    {
+        "hexStringColor" : "#3D6117",
+        "urlParam" : "tex",
+        "name" : "TeX"
+    },
+    {
+        "urlParam" : "text",
+        "name" : "Text"
+    },
+    {
+        "urlParam" : "textile",
+        "name" : "Textile"
+    },
+    {
+        "urlParam" : "thrift",
+        "name" : "Thrift"
+    },
+    {
+        "hexStringColor" : "#A0AA87",
+        "urlParam" : "ti-program",
+        "name" : "TI Program"
+    },
+    {
+        "urlParam" : "tla",
+        "name" : "TLA"
+    },
+    {
+        "urlParam" : "toml",
+        "name" : "TOML"
+    },
+    {
+        "hexStringColor" : "#cf142b",
+        "urlParam" : "turing",
+        "name" : "Turing"
+    },
+    {
+        "urlParam" : "turtle",
+        "name" : "Turtle"
+    },
+    {
+        "urlParam" : "twig",
+        "name" : "Twig"
+    },
+    {
+        "urlParam" : "txl",
+        "name" : "TXL"
+    },
+    {
+        "urlParam" : "type-language",
+        "name" : "Type Language"
+    },
+    {
+        "hexStringColor" : "#2b7489",
+        "urlParam" : "typescript",
+        "name" : "TypeScript"
+    },
+    {
+        "urlParam" : "unified-parallel-c",
+        "name" : "Unified Parallel C"
+    },
+    {
+        "urlParam" : "unity3d-asset",
+        "name" : "Unity3D Asset"
+    },
+    {
+        "urlParam" : "unix-assembly",
+        "name" : "Unix Assembly"
+    },
+    {
+        "urlParam" : "uno",
+        "name" : "Uno"
+    },
+    {
+        "hexStringColor" : "#a54c4d",
+        "urlParam" : "unrealscript",
+        "name" : "UnrealScript"
+    },
+    {
+        "urlParam" : "urweb",
+        "name" : "UrWeb"
+    },
+    {
+        "hexStringColor" : "#fbe5cd",
+        "urlParam" : "vala",
+        "name" : "Vala"
+    },
+    {
+        "urlParam" : "vcl",
+        "name" : "VCL"
+    },
+    {
+        "hexStringColor" : "#b2b7f8",
+        "urlParam" : "verilog",
+        "name" : "Verilog"
+    },
+    {
+        "hexStringColor" : "#adb2cb",
+        "urlParam" : "vhdl",
+        "name" : "VHDL"
+    },
+    {
+        "hexStringColor" : "#199f4b",
+        "urlParam" : "vim-script",
+        "name" : "Vim script"
+    },
+    {
+        "hexStringColor" : "#945db7",
+        "urlParam" : "visual-basic",
+        "name" : "Visual Basic"
+    },
+    {
+        "hexStringColor" : "#1F1F1F",
+        "urlParam" : "volt",
+        "name" : "Volt"
+    },
+    {
+        "hexStringColor" : "#2c3e50",
+        "urlParam" : "vue",
+        "name" : "Vue"
+    },
+    {
+        "urlParam" : "wavefront-material",
+        "name" : "Wavefront Material"
+    },
+    {
+        "urlParam" : "wavefront-object",
+        "name" : "Wavefront Object"
+    },
+    {
+        "urlParam" : "wdl",
+        "name" : "wdl"
+    },
+    {
+        "hexStringColor" : "#9cc9dd",
+        "urlParam" : "web-ontology-language",
+        "name" : "Web Ontology Language"
+    },
+    {
+        "urlParam" : "webassembly",
+        "name" : "WebAssembly"
+    },
+    {
+        "urlParam" : "webidl",
+        "name" : "WebIDL"
+    },
+    {
+        "hexStringColor" : "#7582D1",
+        "urlParam" : "wisp",
+        "name" : "wisp"
+    },
+    {
+        "urlParam" : "world-of-warcraft-addon-data",
+        "name" : "World of Warcraft Addon Data"
+    },
+    {
+        "hexStringColor" : "#4B6BEF",
+        "urlParam" : "x10",
+        "name" : "X10"
+    },
+    {
+        "hexStringColor" : "#403a40",
+        "urlParam" : "xbase",
+        "name" : "xBase"
+    },
+    {
+        "hexStringColor" : "#99DA07",
+        "urlParam" : "xc",
+        "name" : "XC"
+    },
+    {
+        "urlParam" : "xcompose",
+        "name" : "XCompose"
+    },
+    {
+        "urlParam" : "xml",
+        "name" : "XML"
+    },
+    {
+        "urlParam" : "xojo",
+        "name" : "Xojo"
+    },
+    {
+        "urlParam" : "xpages",
+        "name" : "XPages"
+    },
+    {
+        "urlParam" : "xpm",
+        "name" : "XPM"
+    },
+    {
+        "urlParam" : "xproc",
+        "name" : "XProc"
+    },
+    {
+        "hexStringColor" : "#5232e7",
+        "urlParam" : "xquery",
+        "name" : "XQuery"
+    },
+    {
+        "urlParam" : "xs",
+        "name" : "XS"
+    },
+    {
+        "hexStringColor" : "#EB8CEB",
+        "urlParam" : "xslt",
+        "name" : "XSLT"
+    },
+    {
+        "urlParam" : "xtend",
+        "name" : "Xtend"
+    },
+    {
+        "hexStringColor" : "#4B6C4B",
+        "urlParam" : "yacc",
+        "name" : "Yacc"
+    },
+    {
+        "urlParam" : "yaml",
+        "name" : "YAML"
+    },
+    {
+        "urlParam" : "yang",
+        "name" : "YANG"
+    },
+    {
+        "urlParam" : "yara",
+        "name" : "YARA"
+    },
+    {
+        "hexStringColor" : "#118f9e",
+        "urlParam" : "zephir",
+        "name" : "Zephir"
+    },
+    {
+        "urlParam" : "zimpl",
+        "name" : "Zimpl"
+    }
+]
