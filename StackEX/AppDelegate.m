@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import "HDZLoginViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -16,7 +16,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    NSString * currentLogin = [defaults objectForKey:@"currentLogin"];
+    if (!currentLogin) {
+        UIStoryboard *sb = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+        HDZLoginViewController *loginVC = [sb instantiateViewControllerWithIdentifier:@"login"];
+        self.window.rootViewController = loginVC;
+    }
     return YES;
 }
 

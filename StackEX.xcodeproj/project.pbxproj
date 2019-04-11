@@ -44,6 +44,7 @@
 		0337AD6721F1EB7100A9C834 /* HDZDevelopersTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0337AD6621F1EB7100A9C834 /* HDZDevelopersTableViewController.m */; };
 		0337AD6A21F1EC0200A9C834 /* HDZTrendingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0337AD6921F1EC0200A9C834 /* HDZTrendingViewController.m */; };
 		033CCA1C22293F7D00DC2703 /* HDZRepositoriesDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 033CCA1B22293F7D00DC2703 /* HDZRepositoriesDetailController.m */; };
+		0342DAB7225E347B0039E128 /* HDZLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0342DAB6225E347B0039E128 /* HDZLoginViewController.m */; };
 		03449C3521FDF744009DDD11 /* UIColor+HDZHexColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 03449C3421FDF744009DDD11 /* UIColor+HDZHexColor.m */; };
 		034F851B2233AF530010BC9C /* HDZRepositoriesDictionaryController.m in Sources */ = {isa = PBXBuildFile; fileRef = 034F851A2233AF530010BC9C /* HDZRepositoriesDictionaryController.m */; };
 		035E1740223ABF9F004A5B63 /* NSDate+HDZDate.m in Sources */ = {isa = PBXBuildFile; fileRef = 035E173F223ABF9F004A5B63 /* NSDate+HDZDate.m */; };
@@ -173,6 +174,8 @@
 		0337AD6921F1EC0200A9C834 /* HDZTrendingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDZTrendingViewController.m; sourceTree = "<group>"; };
 		033CCA1A22293F7D00DC2703 /* HDZRepositoriesDetailController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HDZRepositoriesDetailController.h; sourceTree = "<group>"; };
 		033CCA1B22293F7D00DC2703 /* HDZRepositoriesDetailController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDZRepositoriesDetailController.m; sourceTree = "<group>"; };
+		0342DAB5225E347B0039E128 /* HDZLoginViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HDZLoginViewController.h; sourceTree = "<group>"; };
+		0342DAB6225E347B0039E128 /* HDZLoginViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDZLoginViewController.m; sourceTree = "<group>"; };
 		03449C3321FDF744009DDD11 /* UIColor+HDZHexColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIColor+HDZHexColor.h"; sourceTree = "<group>"; };
 		03449C3421FDF744009DDD11 /* UIColor+HDZHexColor.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HDZHexColor.m"; sourceTree = "<group>"; };
 		034F85192233AF530010BC9C /* HDZRepositoriesDictionaryController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HDZRepositoriesDictionaryController.h; sourceTree = "<group>"; };
@@ -590,6 +593,8 @@
 		033CCA162229256600DC2703 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				0342DAB5225E347B0039E128 /* HDZLoginViewController.h */,
+				0342DAB6225E347B0039E128 /* HDZLoginViewController.m */,
 				033CCA1A22293F7D00DC2703 /* HDZRepositoriesDetailController.h */,
 				033CCA1B22293F7D00DC2703 /* HDZRepositoriesDetailController.m */,
 				034F85192233AF530010BC9C /* HDZRepositoriesDictionaryController.h */,
@@ -1023,6 +1028,7 @@
 				03A180D5215D3A20006756FF /* UserReceivedEventRepoModel.m in Sources */,
 				03A180D2215D3A20006756FF /* UserReceivedEventModel.m in Sources */,
 				035E6C94221D4D9300AD2442 /* HDZStarredGistsViewController.m in Sources */,
+				0342DAB7225E347B0039E128 /* HDZLoginViewController.m in Sources */,
 				03CE366F21423A6A00FA518A /* HDZUsersSearch.m in Sources */,
 				033172F021C2719300ABDB10 /* HDZRepositoriesViewModel.m in Sources */,
 				030A87352167C617007B8623 /* HDZEventTableViewCell.m in Sources */,

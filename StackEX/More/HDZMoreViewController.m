@@ -68,11 +68,13 @@
     [super viewDidLoad];
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
     NSString * currentLogin = [defaults objectForKey:@"currentLogin"];
+    NSString * currentName = [defaults objectForKey:@"currentName"];
     NSString * currentAvatarUrl = [defaults objectForKey:@"currentAvatarUrl"];
     
     if (currentLogin || currentAvatarUrl ) {
         self.loginButton.hidden = YES;
         self.account.text = currentLogin;
+        self.name.text = currentName;
         NSURL *image = [NSURL URLWithString:currentAvatarUrl];
         [self.avator sd_setImageWithURL:image];
     }
